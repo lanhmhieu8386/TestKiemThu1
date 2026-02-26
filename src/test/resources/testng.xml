@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="VitimexSuite">
+    <test name="RegisterAndLogin">
+        <classes>
+            <class name="VitimexTest"/>
+        </classes>
+    </test>
+</suite>
